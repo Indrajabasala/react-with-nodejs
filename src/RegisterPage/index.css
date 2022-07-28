@@ -1,0 +1,30 @@
+.basicDetails1 {
+  display: flex;
+  flex-direction: row;
+}
+.basicDetails2 {
+  display: flex;
+  flex-direction: row;
+}
+.pageDetilas {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  height: 313px;
+  width: 575px;
+  background-color: azure;
+  margin: auto;
+}
+.input1 {
+  height: 34px;
+  width: 182px;
+  margin: 18px;
+}
+.button-styles {
+  height: 37px;
+  width: 89px;
+  margin-top: 32px;
+}
